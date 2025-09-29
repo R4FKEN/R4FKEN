@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm R4FKEN 👋
 
-<!--
-**R4FKEN/R4FKEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Indie Maker | Building, Learning, Automating
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:**  
+Learning React & NextJS, exploring business process automations, and on a mission to build a SaaS.
+
+---
+
+## 🚀 Top Skills
+- React
+- NextJS
+- n8n (automation)
+
+---
+
+## 🧩 Featured Projects
+
+- [FREE SaaS Backlinks](https://lin-k.to)
+- [Fight for Online Privacy!](https://chat-control.eu)
+- [Christian Values Culture War (for fun)](https://christpilled.com/)
+- [SEO Automation Tools](http://rocketproof.io/) (waitlist)
+
+---
+
+## ✏️ Writing
+
+- [Towards Agentic AI](https://medium.com/towards-agentic-ai) (Medium publication)
+- [@raf.vantongerloo on Medium](https://medium.com/@raf.vantongerloo)
+
+---
+
+## 🌐 Find Me Online
+
+- [Portfolio](https://rafvantongerloo.com)
+- [Indiepage](https://indiepa.ge/r4fken)
+- [X/Twitter](https://x.com/RafVantongerloo)
+- [ProductHunt](https://www.producthunt.com/@rafvantongerloo)
+
+---
+
+## 💡 About Me
+
+I'm an indie maker passionate about building tools, learning new tech, and exploring business automation. I enjoy sharing my journey, experiments, and insights as I learn React, NextJS, and automation frameworks.
+
+---
+
+*Let’s build something awesome together!*
