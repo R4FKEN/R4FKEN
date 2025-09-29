@@ -22,6 +22,7 @@ Learning React & NextJS, exploring business process automations, and on a missio
 - [Fight for Online Privacy!](https://chat-control.eu)
 - [Christian Values Culture War (for fun)](https://christpilled.com/)
 - [SEO Automation Tools](http://rocketproof.io/) (waitlist)
+- [SaaS SEO Tools](https://rafvantongerloo.com/saas-seo)
 
 ---
 
