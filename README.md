@@ -18,6 +18,7 @@ Learning React & NextJS, exploring business process automations, and on a missio
 
 ## 🧩 Featured Projects
 
+- [Trimless for Gmail V3](https://trimlessforgmail.com/)
 - [FREE SaaS Backlinks](https://lin-k.to)
 - [Fight for Online Privacy!](https://chat-control.eu)
 - [Christian Values Culture War (for fun)](https://christpilled.com/)
