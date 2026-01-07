@@ -18,11 +18,11 @@ Learning React & NextJS, exploring business process automations, and on a missio
 
 ## 🧩 Featured Projects
 
-- [Trimless for Gmail V3](https://trimlessforgmail.com/)
-- [FREE SaaS Backlinks](https://lin-k.to)
+- [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/)
+- [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to)
 - [Fight for Online Privacy!](https://chat-control.eu)
 - [Christian Values Culture War (for fun)](https://christpilled.com/)
-- [SEO Automation Tools](http://rocketproof.io/) (waitlist)
+- [SEO Automation Newsletter](http://rocketproof.io/)
 - [SaaS SEO Tools](https://rafvantongerloo.com/saas-seo)
 
 ---
