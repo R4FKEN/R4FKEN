@@ -20,10 +20,14 @@ Learning React & NextJS, exploring business process automations, and on a missio
 
 - [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/)
 - [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to)
+- [The Chrome Goldmine](https://chromegoldmine.com/) (Work In Progress)
 - [Fight for Online Privacy!](https://chat-control.eu)
+- [Unelected EU Decision Makers](https://coreper.eu)
 - [Christian Values Culture War (for fun)](https://christpilled.com/)
 - [SEO Automation Newsletter](http://rocketproof.io/)
 - [SaaS SEO Tools](https://rafvantongerloo.com/saas-seo)
+- [The Future of Website Theme Design](https://themefa.st/) (Work In Progress)
+- [BarStack](https://barstack.app/) (Work In Progress)
 
 ---
 
