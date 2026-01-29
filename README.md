@@ -10,9 +10,9 @@ Learning React & NextJS, exploring business process automations, and on a missio
 ---
 
 ## 🚀 Top Skills
-- React
-- NextJS
-- n8n (automation)
+- React, NextJS
+- SEO for SaaS and digital startups
+- n8n, MindStudio, Latenode, Factory, AmpCode, Manus, AnythingLLM, LM Studio, Ollama (RAG's and automation)
 
 ---
 
@@ -28,6 +28,7 @@ Learning React & NextJS, exploring business process automations, and on a missio
 - [SaaS SEO Tools](https://rafvantongerloo.com/saas-seo)
 - [The Future of Website Theme Design](https://themefa.st/) (Work In Progress)
 - [BarStack](https://barstack.app/) (Work In Progress)
+- [LevelFast](https://levelfa.st/) (Work In Progress)
 
 ---
 
