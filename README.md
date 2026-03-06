@@ -20,7 +20,7 @@ Learning React & NextJS, exploring business process automations, and on a missio
 
 - [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/)
 - [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to)
-- [The Chrome Goldmine](https://chromegoldmine.com/) (Just Launched! Rebuild & Profit from Expired Chrome Extensions with this database of 9650+ validated, fully researched Chrome Extensions ready to rebuild. Your customers are literally waiting! Interactive Notion Database comes with 10+ Guides and Manuals so you have to succeed!)
+- [The Chrome Goldmine](https://chromegoldmine.com/) (Just Launched! Rebuild & Profit from 9600+ Expired Chrome Extensions with this database validated, fully researched Extensions ready to rebuild.Interactive Notion Database comes with 10+ Guides to rebuild and profit!)
 - [Fight for Online Privacy!](https://chat-control.eu)
 - [Unelected EU Decision Makers](https://coreper.eu)
 - [Christian Values Culture War (for fun)](https://christpilled.com/)
