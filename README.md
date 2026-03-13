@@ -21,7 +21,6 @@ Learning React & NextJS, exploring business process automations, and on a missio
 
 - [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/) ![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
  ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
-
 - [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to)
 - [The Chrome Goldmine](https://chromegoldmine.com/) (Just Launched! Rebuild & Profit from 9600+ Expired Chrome Extensions with this database validated, fully researched Extensions ready to rebuild.Interactive Notion Database comes with 10+ Guides to rebuild and profit!)
 - [Fight for Online Privacy!](https://chat-control.eu)
@@ -46,7 +45,7 @@ Learning React & NextJS, exploring business process automations, and on a missio
 
 - [Portfolio](https://rafvantongerloo.com)
 - [Indiepage](https://indiepa.ge/r4fken)
-- [X/Twitter](https://x.com/RafVantongerloo)
+- [X/Twitter](https://x.com/RafVantongerloo) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rafvantongerloo?style=flat-square)
 - [ProductHunt](https://www.producthunt.com/@rafvantongerloo)
 
 ---
