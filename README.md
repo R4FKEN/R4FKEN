@@ -19,7 +19,8 @@ Learning React & NextJS, exploring business process automations, and on a missio
 
 ## 🧩 Featured Projects
 
-- [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/)
+- [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/) ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
+
 - [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to)
 - [The Chrome Goldmine](https://chromegoldmine.com/) (Just Launched! Rebuild & Profit from 9600+ Expired Chrome Extensions with this database validated, fully researched Extensions ready to rebuild.Interactive Notion Database comes with 10+ Guides to rebuild and profit!)
 - [Fight for Online Privacy!](https://chat-control.eu)
