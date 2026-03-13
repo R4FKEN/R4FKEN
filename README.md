@@ -1,7 +1,8 @@
 # Hi, I'm R4FKEN 👋
 
 > Indie Maker | Building, Learning, Automating
-[![Peerlist](https://github-readme-badge.peerlist.io/api/r4fken?style=flat-square)](https://peerlist.io/r4fken)
+> 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/r4fken)](https://peerlist.io/r4fken)
 ---
 
 **Currently:**  
