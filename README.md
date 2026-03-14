@@ -43,7 +43,7 @@ Learning React & NextJS, exploring business process automations, and on a missio
 
 - [Portfolio](https://rafvantongerloo.com)
 - [Indiepage](https://indiepa.ge/r4fken)
-- [X/Twitter](https://x.com/RafVantongerloo)
+- [X/Twitter](https://x.com/RafVantongerloo) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rafvantongerloo) 
 - [ProductHunt](https://www.producthunt.com/@rafvantongerloo)
 
 ---
