@@ -10,7 +10,9 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 
 ## 🚀 Top Skills
 - React, NextJS
-- SEO for SaaS and digital startups
+- Chrome Extensions
+- Curated Databases
+- (programmatic-) SEO for SaaS and digital startups
 - Emergent, MindStudio, Latenode, Factory, AmpCode, Manus, AnythingLLM, LM Studio, Ollama (RAG's and Agents, Orchestration)
 
 ---
