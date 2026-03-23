@@ -4,14 +4,14 @@
 ---
 
 **Currently:**  
-Learning React & NextJS, exploring business process automations, and on a mission to build a SaaS.
+Learning React & NextJS, building Chrome Extensions, curating databases, exploring business process automations, and on a mission to build a SaaS.
 
 ---
 
 ## 🚀 Top Skills
 - React, NextJS
 - SEO for SaaS and digital startups
-- n8n, MindStudio, Latenode, Factory, AmpCode, Manus, AnythingLLM, LM Studio, Ollama (RAG's and automation)
+- Emergent, MindStudio, Latenode, Factory, AmpCode, Manus, AnythingLLM, LM Studio, Ollama (RAG's and Agents, Orchestration)
 
 ---
 
@@ -24,11 +24,19 @@ Learning React & NextJS, exploring business process automations, and on a missio
 - [Fight for Online Privacy!](https://chat-control.eu)
 - [Unelected EU Decision Makers](https://coreper.eu)
 - [Christian Values Culture War (for fun)](https://christpilled.com/)
-- [SEO Automation Newsletter](http://rocketproof.io/)
 - [SaaS SEO Tools](https://rafvantongerloo.com/saas-seo)
-- [The Future of Website Theme Design](https://themefa.st/) (Work In Progress)
 - [BarStack](https://barstack.app/) (Work In Progress)
+
+## ⏱️ The Fast Show
+- [ThemeFast: The Future of Website Theme Design](https://themefa.st/) (Work In Progress)
 - [LevelFast](https://levelfa.st/) (Work In Progress)
+- [IndieFast](https://indiefa.st/) (Work In Progress)
+- [RankFast](https://rankfa.st/) (Work In Progress)
+- [BoostFast](https://boostfa.st/) (Work In Progress)
+- [KeywordFast](https://keywordfa.st/) (Work In Progress)
+- [AffiliateFast](https://affiliatefa.st/) (Work In Progress)
+- [TemplateFast](https://templatefa.st/) (Work In Progress)
+- [StackFast](https://stackfa.st/) (Work In Progress)
 
 ---
 
@@ -54,4 +62,4 @@ I'm an indie maker passionate about building tools, learning new tech, and explo
 
 ---
 
-*Let’s build something awesome together!*
+*Let’s build something awesome!*
