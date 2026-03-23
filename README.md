@@ -30,7 +30,7 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 - [BarStack](https://barstack.app/) (Work In Progress)
 
 ## ⏱️ The Fast Show
-- [ThemeFast: The Future of Website Theme Design](https://themefa.st/) (Work In Progress)
+- [ThemeFast](https://themefa.st/) (The Future of Website Theme Design - Work In Progress)
 - [LevelFast](https://levelfa.st/) (Work In Progress)
 - [IndieFast](https://indiefa.st/) (Work In Progress)
 - [RankFast](https://rankfa.st/) (Work In Progress)
