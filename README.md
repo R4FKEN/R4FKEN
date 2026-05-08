@@ -13,7 +13,7 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 - Chrome Extensions
 - Curated Databases
 - (programmatic-) SEO for SaaS and digital startups
-- Emergent, MindStudio, Latenode, Factory, AmpCode, Manus, AnythingLLM, LM Studio, Ollama (RAG's and Agents, Orchestration)
+- MindStudio, Latenode, Factory, AmpCode, Manus, AnythingLLM, LM Studio, Ollama (RAG's and Agents, Orchestration)
 
 ---
 
@@ -30,6 +30,7 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 - [BarStack](https://barstack.app/) (Work In Progress)
 
 ## ⏱️ The Fast Show
+- [ShitFast](https://shitfa.st/) (Museum of AI Slop Websites - Work In Progress)
 - [BoostFast](https://boostfa.st/) (Boost Your ProductHunt Launch - Work In Progress)
 - [ThemeFast](https://themefa.st/) (The Future of Website Theme Design - Work In Progress)
 - [LevelFast](https://levelfa.st/) (Work In Progress)
