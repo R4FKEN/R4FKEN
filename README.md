@@ -43,9 +43,9 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 
 ---
 
-## ✏️ Writing
+## ✏️ Writing on Medium
 
-- [Towards Agentic AI](https://medium.com/towards-agentic-ai) (<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> publication)
+- [Towards Agentic AI](https://medium.com/towards-agentic-ai)
 - [@raf.vantongerloo on Medium](https://medium.com/@raf.vantongerloo)
 
 ---
