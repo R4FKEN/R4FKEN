@@ -1,6 +1,7 @@
 # Hi, I'm R4FKEN 👋
 
 > Indie Maker | Building, Learning, Automating
+
 ---
 
 **Currently:**  
@@ -22,7 +23,7 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 - [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/) ![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
  ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
 - [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to)
-- [The Chrome Goldmine](https://chromegoldmine.com/) (Rebuild & Profit from 9600+ Expired, Profitable Chrome Extensions with this interactive database of validated, fully researched Extensions ready to rebuild. Interactive Notion Database comes with 10+ Guides to rebuild and profit!)
+- [The Chrome Goldmine](https://chromegoldmine.com/) (9600+ Expired, Profitable Chrome Extensions! Interactive Notion Database comes with 10+ Guides and Manuals to rebuild and profit!)
 - [Fight for Online Privacy!](https://chat-control.eu)
 - [Unelected EU Decision Makers](https://coreper.eu)
 - [Christian Values Culture War](https://christpilled.com/)
@@ -30,11 +31,11 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 - [BarStack](https://barstack.app/) (Work In Progress)
 
 ## ⏱️ The Fast Show
-- [ShitFast](https://shitfa.st/) (Museum of AI Slop Websites - Work In Progress)
+- [ShitFast](https://shitfa.st/) (Museum of AI Slop Websites - Launched!)
+- [IndieFast](https://indiefa.st/) (Tools to get to an MVP in days! - Work In Progress)
 - [BoostFast](https://boostfa.st/) (Boost Your ProductHunt Launch - Work In Progress)
 - [ThemeFast](https://themefa.st/) (The Future of Website Theme Design - Work In Progress)
 - [LevelFast](https://levelfa.st/) (Work In Progress)
-- [IndieFast](https://indiefa.st/) (Work In Progress)
 - [RankFast](https://rankfa.st/) (Work In Progress)
 - [KeywordFast](https://keywordfa.st/) (Work In Progress)
 - [AffiliateFast](https://affiliatefa.st/) (Work In Progress)
