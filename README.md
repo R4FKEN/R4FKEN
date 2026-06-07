@@ -1,11 +1,11 @@
 # Hi, I'm R4FKEN 👋
 
-> Indie Maker | Building, Learning, Automating
+> I'm an indie maker passionate about building tools, learning new tech, and exploring business automation. I enjoy sharing my journey, experiments, and insights as I learn React, NextJS, and automation frameworks.
 
 ---
 
 **Currently:**  
-Learning React & NextJS, building Chrome Extensions, curating databases, exploring business process automations, and on a mission to build a SaaS.
+Learning React & NextJS, building Chrome Extensions, curating databases, exploring business process automations, and occasionally writing on Medium.
 
 ---
 
@@ -44,6 +44,10 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 
 ---
 
+[![image]([Image Link on Github](https://shitfa.st/europe-compliance-roast-banner-github-profile.jpg))]([Your Link Address](https://shitfa.st/roast/eurotoolkit-eu))
+
+---
+
 ## ✏️ Writing on Medium
 
 - [Towards Agentic AI](https://medium.com/towards-agentic-ai)
@@ -57,12 +61,6 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 - [Indiepage](https://indiepa.ge/r4fken)
 - [X/Twitter](https://x.com/RafVantongerloo)
 - [ProductHunt](https://www.producthunt.com/@rafvantongerloo)
-
----
-
-## 💡 About Me
-
-I'm an indie maker passionate about building tools, learning new tech, and exploring business automation. I enjoy sharing my journey, experiments, and insights as I learn React, NextJS, and automation frameworks.
 
 ---
 
