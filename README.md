@@ -44,7 +44,7 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 
 ---
 
-[https://shitfa.st/europe-compliance-roast-banner-github-profile.jpg](https://shitfa.st/roast/eurotoolkit-eu)
+[![Europe Compliance Roast Banner](https://shitfa.st/europe-compliance-roast-banner-github-profile.jpg )](https://shitfa.st/roast/eurotoolkit-eu)
 
 ---
 
