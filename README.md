@@ -22,13 +22,14 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 
 - [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/) ![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
  ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
-- [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to)
+- [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to/)
 - [The Chrome Goldmine](https://chromegoldmine.com/) (9600+ Expired, Profitable Chrome Extensions! Interactive Notion Database comes with 10+ Guides and Manuals to rebuild and profit!)
-- [Fight for Online Privacy!](https://chat-control.eu)
-- [Unelected EU Decision Makers](https://coreper.eu)
+- [Fight for Online Privacy!](https://chat-control.eu/)
+- [Unelected EU Decision Makers](https://coreper.eu/)
 - [Christian Values Culture War](https://christpilled.com/)
-- [SaaS SEO Tools](https://rafvantongerloo.com/saas-seo)
+- [SaaS SEO Tools](https://rafvantongerloo.com/saas-seo/)
 - [BarStack](https://barstack.app/) (Work In Progress)
+- [Eef Vantongerloo Artist Portfolio](https://eefvantongerloo.com/) (Work In Progress)
 
 ## ⏱️ The Fast Show
 - [ShitFast](https://shitfa.st/) (Museum of AI Slop Websites - Launched!)
@@ -44,23 +45,23 @@ Learning React & NextJS, building Chrome Extensions, curating databases, explori
 
 ---
 
-[![Europe Compliance Roast Banner](https://shitfa.st/europe-compliance-roast-banner-github-profile.jpg )](https://shitfa.st/roast/eurotoolkit-eu)
+[![Europe Compliance Roast Banner](https://shitfa.st/europe-compliance-roast-banner-github-profile.jpg )](https://shitfa.st/roast/eurotoolkit-eu/)
 
 ---
 
 ## ✏️ Writing on Medium
 
-- [Towards Agentic AI](https://medium.com/towards-agentic-ai)
-- [@raf.vantongerloo on Medium](https://medium.com/@raf.vantongerloo)
+- [Towards Agentic AI](https://medium.com/towards-agentic-ai/)
+- [@raf.vantongerloo on Medium](https://medium.com/@raf.vantongerloo/)
 
 ---
 
 ## 🌐 Find Me Online
 
-- [Portfolio](https://rafvantongerloo.com)
-- [Indiepage](https://indiepa.ge/r4fken)
-- [X/Twitter](https://x.com/RafVantongerloo)
-- [ProductHunt](https://www.producthunt.com/@rafvantongerloo)
+- [Portfolio](https://rafvantongerloo.com/)
+- [Indiepage](https://indiepa.ge/r4fken/)
+- [X/Twitter](https://x.com/RafVantongerloo/)
+- [ProductHunt](https://www.producthunt.com/@rafvantongerloo/)
 
 ---
 
