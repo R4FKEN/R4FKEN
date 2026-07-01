@@ -15,6 +15,7 @@
 
 ## 🧩 Featured Projects
 
+- [WikiResearch Pro - Chrome Extension](https://wikiresearchpro.com/) (Almost ready!)
 - [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/) ![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
  ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
 - [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to/)
