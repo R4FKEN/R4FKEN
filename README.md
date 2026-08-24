@@ -15,7 +15,7 @@
 
 ## 🧩 Featured Projects
 
-- [WikiResearch Pro - Chrome Extension](https://wikiresearchpro.com/) (Almost ready!)
+- [WikiResearch Pro - Chrome Extension](https://wikiresearchpro.com/) (Restarting from zero...)
 - [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/) ![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
  ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
 - [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to/)
@@ -30,11 +30,13 @@
 
 ## ⏱️ The Fast Show
 - [ShitFast](https://shitfa.st/) (Museum of AI Slop Websites - Launched!)
-- [IndieFast](https://indiefa.st/) (Tools to get to an MVP in days! - Beta-testing)
+- [IndieFast](https://indiefa.st/) (Tools to get to an MVP in days! - Launched!)
+- [HiringFast](https://hiringfa.st/) (Hire AI agents like digital employees. - Launched!)
+- [RankFast](https://rankfa.st/) (The best AI SEO tool for ranking fast in 2026. - Launched!)
+- [FeedbackFast](https://feedbackfa.st/) (Customer love is a growth channel. Make it visible. - Launched!)
 - [BoostFast](https://boostfa.st/) (Boost Your ProductHunt Launch - Work In Progress)
 - [ThemeFast](https://themefa.st/) (The Future of Website Theme Design - Work In Progress)
 - [LevelFast](https://levelfa.st/) (Work In Progress)
-- [RankFast](https://rankfa.st/) (Work In Progress)
 - [KeywordFast](https://keywordfa.st/) (Work In Progress)
 - [AffiliateFast](https://affiliatefa.st/) (Work In Progress)
 - [TemplateFast](https://templatefa.st/) (Work In Progress)
