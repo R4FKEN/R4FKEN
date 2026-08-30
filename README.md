@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 Top Skills
-- React, NextJS
 - Chrome Extensions
 - Curated Databases
 - (programmatic-) SEO for SaaS and digital startups
@@ -15,25 +14,24 @@
 
 ## 🧩 Featured Projects
 
-- [WikiResearch Pro - Chrome Extension](https://wikiresearchpro.com/) (Restarting from zero...)
+- [Chrome Goldmine](https://chromegoldmine.com/) (9600+ Expired, Profitable Chrome Extensions! Interactive Notion Database comes with 10+ Guides and Manuals to rebuild and profit!)
+- [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to/)
 - [Trimless for Gmail V3 - Chrome Extension](https://trimlessforgmail.com/) ![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
  ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/oibhbmliggcbpecnkjbdolkokcpmobbo?style=flat-square)
-- [Linkto: FREE Database of SaaS Backlink Opportunities](https://lin-k.to/)
-- [Chrome Goldmine](https://chromegoldmine.com/) (9600+ Expired, Profitable Chrome Extensions! Interactive Notion Database comes with 10+ Guides and Manuals to rebuild and profit!)
-- [The Chuddening](https://thechuddening.com/)
 - [Fight for Online Privacy!](https://chat-control.eu/)
 - [Unelected EU Decision Makers](https://coreper.eu/)
 - [Christian Values Culture War](https://christpilled.com/)
 - [SaaS SEO Tools](https://rafvantongerloo.com/saas-seo/)
+- [The Chuddening](https://thechuddening.com/)
 - [BarStack](https://barstack.app/) (Work In Progress)
 - [Eef Vantongerloo Artist Portfolio](https://eefvantongerloo.com/) (Work In Progress)
 
 ## ⏱️ The Fast Show
-- [ShitFast](https://shitfa.st/) (Museum of AI Slop Websites - Launched!)
-- [IndieFast](https://indiefa.st/) (Tools to get to an MVP in days! - Launched!)
-- [HiringFast](https://hiringfa.st/) (Hire AI agents like digital employees. - Launched!)
-- [RankFast](https://rankfa.st/) (The best AI SEO tool for ranking fast in 2026. - Launched!)
-- [FeedbackFast](https://feedbackfa.st/) (Customer love is a growth channel. Make it visible. - Launched!)
+- [ShitFast](https://shitfa.st/) (Museum of AI Slop Websites)
+- [IndieFast](https://indiefa.st/) (Tools to get to an MVP in days!)
+- [HiringFast](https://hiringfa.st/) (Hire AI agents like digital employees)
+- [RankFast](https://rankfa.st/) (The best AI SEO tool for ranking fast in 2026)
+- [FeedbackFast](https://feedbackfa.st/) (Customer love is a growth channel. Make it visible)
 - [BoostFast](https://boostfa.st/) (Boost Your ProductHunt Launch - Work In Progress)
 - [ThemeFast](https://themefa.st/) (The Future of Website Theme Design - Work In Progress)
 - [LevelFast](https://levelfa.st/) (Work In Progress)
@@ -50,8 +48,8 @@
 
 ## ✏️ Writing on Medium
 
-- [Towards Agentic AI](https://medium.com/towards-agentic-ai/)
 - [@raf.vantongerloo on Medium](https://medium.com/@raf.vantongerloo/)
+- [Towards Agentic AI](https://medium.com/towards-agentic-ai/)
 
 ---
 
