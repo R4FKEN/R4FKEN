@@ -7,7 +7,7 @@
 ## 🚀 Top Skills
 - Chrome Extensions
 - Curated Databases
-- (programmatic-) SEO for SaaS and digital startups
+- SEO/GEO for Chrome Extensions, SaaS and digital startups
 - MindStudio, Latenode, Factory, AmpCode, Manus, AnythingLLM, LM Studio, Ollama, Hermes Agent (RAG's and Agents, Orchestration, Harnesses, Tools)
 
 ---
