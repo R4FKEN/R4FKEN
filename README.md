@@ -4,7 +4,7 @@
 
 ---
 
-[![Runable Official Affiliate Banner](https://lin-k.to/runable.jpg)](https://runable.link/raf-vantongerloo)
+[![Runable Official Affiliate Banner](https://lin-k.to/runable.png)](https://runable.link/raf-vantongerloo)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-[![Wispr Flow Banner](https://lin-k.to/flow.jpg)](https://ref.wisprflow.ai/raf-vantongerloo)
+[![Wispr Flow Banner](https://lin-k.to/flow.png)](https://ref.wisprflow.ai/raf-vantongerloo)
 
 ---
 
