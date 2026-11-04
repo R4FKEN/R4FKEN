@@ -4,6 +4,10 @@
 
 ---
 
+[![Runable Official Affiliate Banner](https://lin-k.to/runable.jpg)](https://runable.link/raf-vantongerloo)
+
+---
+
 ## 🚀 Top Skills
 - Chrome Extensions
 - Curated Databases
@@ -42,7 +46,7 @@
 
 ---
 
-[![Europe Compliance Roast Banner](https://shitfa.st/europe-compliance-roast-banner-github-profile.jpg )](https://shitfa.st/roast/eurotoolkit-eu/)
+[![Wispr Flow Banner](https://lin-k.to/flow.jpg)](https://ref.wisprflow.ai/raf-vantongerloo)
 
 ---
 
