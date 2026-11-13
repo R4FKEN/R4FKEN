@@ -13,6 +13,7 @@
 - Curated Databases
 - SEO/GEO for Chrome Extensions, SaaS and digital startups
 - MindStudio, Latenode, Factory, AmpCode, Manus, AnythingLLM, LM Studio, Ollama, Hermes Agent (RAG's and Agents, Orchestration, Harnesses, Tools)
+- **Official** **[Runable](https://runable.link/raf-vantongerloo)** **Affiliate.** *(Get 1500 FREE credits via this link.)*
 
 ---
 
